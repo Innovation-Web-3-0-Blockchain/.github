@@ -63,7 +63,7 @@ Repository: [Decentralized-Exchange](https://github.com/Innovation-Web-3-0-Block
 
 ## Closing Statement
 
-Feel free to explore these repositories and contribute to our blockchain hub. If you're new to blockchain, we recommend starting with "Solidity For Beginners" repository to build a solid foundation. 
+Feel free to explore these repositories and contribute to our blockchain hub. If you're new to blockchain, we recommend starting with [Solidity-For-Beginners]((https://github.com/Innovation-Web-3-0-Blockchain/Solidity-For-Beginners)) repository to build a solid foundation. 
 
 Happy coding!
 
