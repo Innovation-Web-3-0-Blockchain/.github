@@ -10,8 +10,9 @@ Welcome to our blockchain hub! Whether you're new to blockchain or an experience
 4. [Hacking Smart Contracts](#hacking-smart-contracts)
 4. [FlashLoanSimple](#flashloansimple)
 5. [FlashLoanSimple-Part-2](#flashloansimple-part-2)
-6. [Arbitrage-bot](#arbitrage-bot)
-7. [Decentralized Exchange](#decentralized-exchange)
+6. [Arbitrage-Bot](#arbitrage-bot)
+7. [Initial Coin Offering](#initial-coin-offering)
+8. [Decentralized Exchange](#decentralized-exchange)
 
 ## Solidity For Beginners
 
@@ -49,11 +50,17 @@ Continue your flash loan journey with more advanced examples and use cases.
 
 Repository: [FlashLoanSimple-Part-2](https://github.com/Innovation-Web-3-0-Blockchain/FlashLoanSimple-Part-2)
 
-## Arbitrage-bot
+## Arbitrage-Bot
 
 Develop your own arbitrage bot to take advantage of price differences across various exchanges.
 
 Repository: [Arbitrage-bot](https://github.com/Innovation-Web-3-0-Blockchain/Arbitrage-Bot)
+
+## Initial Coin Offering
+
+Create a crowdfunding sale for a new token.
+
+Repository: [ICO](https://github.com/Innovation-Web-3-0-Blockchain/ICO)
 
 ## Decentralized Exchange
 
